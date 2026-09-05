@@ -1,32 +1,66 @@
-# Yafi Sheikh — Portfolio v2
+# Yafi Sheikh — Developer Portfolio
 
-A polished, responsive developer portfolio for **Yafi Sheikh — CSE Student · C++ & Python Developer**.
+A modern, responsive personal portfolio website showcasing my projects, technical skills, development journey, and experience as a **CSE student and C++ & Python developer**.
 
-## Included
-- Responsive dark developer design
-- About, toolkit, projects, journey and contact sections
-- Completed vs ongoing project status
-- GitHub and LinkedIn links
-- Downloadable CV (`resume.pdf`)
-- SEO and Open Graph metadata
-- Mobile navigation
-- Scroll reveal animations
-- No profile photo required
-- GitHub Pages-ready static files
+## 🌐 Portfolio
 
-## Files
-- `index.html` — portfolio
-- `style.css` — design system and responsive layout
-- `script.js` — interactions and animations
-- `resume.pdf` — portfolio CV
-- `favicon.svg` — favicon
+🚀 **Live Website:** Add your GitHub Pages URL here
 
-## Deploy on GitHub Pages
-1. Create a repository (for example `portfolio`).
-2. Upload all files in this folder.
-3. In GitHub: **Settings → Pages**.
-4. Select **Deploy from a branch**, choose `main` and `/root`.
-5. Save and open the generated Pages URL.
+## 👨‍💻 About
 
-## Customize
-Replace the placeholder project visual mockups with real screenshots whenever you have them. The layout is already prepared for that upgrade.
+Hi, I'm **Yafi Sheikh**, a CSE student and developer passionate about building practical software and improving my problem-solving skills.
+
+This portfolio serves as a central place to showcase my projects, technical skills, development journey, and ongoing work.
+
+## ✨ Features
+
+- 🎨 Modern dark developer-focused interface
+- 📱 Fully responsive design
+- 🧑‍💻 About Me section
+- 🛠️ Technical toolkit and skills
+- 📂 Project showcase
+- 🚧 Completed and ongoing project status
+- 🔗 GitHub and LinkedIn integration
+- 📄 Downloadable CV
+- ✨ Smooth scroll and reveal animations
+- 📱 Mobile-friendly navigation
+- 🔍 SEO and Open Graph metadata
+- ⚡ Lightweight static website
+- 🚀 GitHub Pages ready
+
+## 🛠️ Technologies
+
+- **HTML5** — Website structure
+- **CSS3** — Styling, layout, and responsive design
+- **JavaScript** — Interactions and animations
+- **C++** — Object-Oriented Programming and application development
+- **Python** — Programming and software development
+- **Git & GitHub** — Version control and deployment
+
+## 📌 Featured Projects
+
+### 🎓 Student Management System
+
+A practical C++ application designed to manage student records while applying **Object-Oriented Programming** concepts.
+
+**Technology:** C++
+
+### ✈️ Travel Agency Management System
+
+A management application focused on organizing travel agency operations and demonstrating structured software development.
+
+**Technology:** C++
+
+More projects will be added as I continue learning and building.
+
+## 📂 Project Structure
+
+```text
+Yafi-Sheikh-Portfolio-v2/
+│
+├── index.html
+├── style.css
+├── script.js
+├── resume.pdf
+├── favicon.svg
+└── README.md
